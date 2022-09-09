@@ -4,7 +4,7 @@
             <img src="./Icons/Dein%20ranklike%20SEO%20Experte%20aus%20Hamburg.png"
                 alt="Dein ranklike SEO Experte aus Hamburg">
         </div>
-        <img src="./Icons/ranklike-Online-Marketing-SEO.gif" alt="ranklike-Online-Marketing-SEO" width=300px>
+        <p align="right"><img src="./Icons/ranklike-Online-Marketing-SEO.gif" alt="ranklike-Online-Marketing-SEO" width=300px></p>
 </div>
 
 
