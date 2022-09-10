@@ -15,7 +15,7 @@
 
 <img align="right" width=450px alt="Unicorn" src="./Icons/ranklike-SEO-Experte-Hamburg-Marketing.gif" style="margin-top:100px"/>
 
-### Talking about Personal Stuffs...
+# Talking about Personal Stuffs...
 
 - 🔭 I'm Currently Learning **React JS & DSA**
 - 😉 I'm Looking to clollaborate on **Web Development**
@@ -24,8 +24,7 @@
 - 🔨 I’m currently working on my project portfolio
 - 💬 Ask me about Anything [here](https://github.com/smir45/smir45/issues)! I am happy to help.
 - 😄 Pronouns : **He/Him/His**<br><br>
-  
-        
+       
 <p>
 <div style="display:flex;">
 <img align="left" src="./Icons/ranklike-seo-hamburg.png" width=20px style="margin-right:20px">
