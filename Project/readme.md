@@ -22,10 +22,10 @@
 
 <br><br>
 
-<p>
+<div style="display:flex">
 <img align="left" src="./Icons/ranklike-Suchmaschinenoptimierung-Hamburg.gif " width=350px>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=ranklike&hide=issues&show_icons=true&color=#00FDB0=en&layout=compact" alt="ranklike's githubstats" width=550px />
-</p>
+</div>
 
 <br><br>
 
