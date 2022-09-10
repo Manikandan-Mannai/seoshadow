@@ -17,13 +17,11 @@
 
 # Talking about Personal Stuffs...
 
-- 🔭 I'm Currently Learning **React JS & DSA**
-- 😉 I'm Looking to clollaborate on **Web Development**
-- 🦄 I'm Looking for Collaborate with any **Open - Source Contribution**
-- 🤔 I’m Looking for with **Internships**
-- 🔨 I’m currently working on my project portfolio
-- 💬 Ask me about Anything [here](https://github.com/smir45/smir45/issues)! I am happy to help.
-- 😄 Pronouns : **He/Him/His**<br><br>
+- 🚀 Über 12+ Jahre Erfahrung im digitalen Marketing Umfeld 
+- ⚡️ Spezialisiert auf Suchmaschinenoptimierung 
+- 🎯 Maßgeschneiderte SEO-Lösungen 
+- 🔎 Online-Shop SEO und Website Optimierungen
+- 📌 Professionelle und zuverlässige SEO-Beratung
        
 <p>
 <div style="display:flex;">
