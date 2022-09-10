@@ -16,15 +16,15 @@
 <div style="display:flex">
 <img align="right" width=500px src="./Icons/ranklike-SEO-Experte-Hamburg-Marketing.gif" style="margin-top:-100px">
 
-### Unser SEO MehrWERT
-
-- 🚀 Über 12+ Jahre Erfahrung im digitalen Marketing Umfeld <br>
-- ⚡️ Spezialisiert auf Suchmaschinenoptimierung <br>
-- 🎯 Maßgeschneiderte SEO-Lösungen <br>
-- 🔎 Online-Shop SEO und Website Optimierungen <br>
-- 📌 Professionelle und zuverlässige SEO-Beratung
+<div>
+<h3>Unser SEO MehrWERT</h3>
+<p>🚀 Über 12+ Jahre Erfahrung im digitalen Marketing Umfeld </p>
+<p>⚡️ Spezialisiert auf Suchmaschinenoptimierung </p>
+<p>🎯 Maßgeschneiderte SEO-Lösungen </p>
+<p>🔎 Online-Shop SEO und Website Optimierungen </p>
+<p>📌 Professionelle und zuverlässige SEO-Beratung</p>
 </div>
-        
+</div>   
         
         
 <p>
