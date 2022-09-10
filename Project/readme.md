@@ -1,8 +1,9 @@
 <h1>Dein SEO Experte</h1>
 <img src="./Icons/Dein%20ranklike%20SEO%20Experte%20aus%20Hamburg.png" alt="Dein ranklike SEO Experte aus Hamburg">
 
-
 <h1>Wir sind ranklike - SEO Experten aus Hamburg - Deine SEO-Agentur</h1>
+
+<br><br>
 
 <img align="left" src="./Icons/ranklike-seo-hamburg.png" width=29px><h2>#1 SEO Beratung in Hamburg</h2>
 
@@ -10,6 +11,8 @@
 <br>
 
 <img align="right" src="./Icons/ranklike-SEO-Experte-Hamburg-Marketing.gif" width=350px style="margin-top: -70px;">
+
+<br><br>
 
 ### Unser SEO MehrWERT
 
@@ -20,8 +23,8 @@
 - 📌 Professionelle und zuverlässige SEO-Beratung
 
 
-<img  align="left" src="./Icons/ranklike-Suchmaschinenoptimierung-Hamburg.gif " width=350px>
-<p align="right"><img src="https://github-readme-stats.vercel.app/api?username=ranklike&hide=issues&show_icons=true&color=#00FDB0=en&layout=compact" alt="ranklike's githubstats" width=450px /></p>
+<p align="left"><img src="./Icons/ranklike-Suchmaschinenoptimierung-Hamburg.gif " width=350px></p>
+<p align="right"><img src="https://github-readme-stats.vercel.app/api?username=ranklike&hide=issues&show_icons=true&color=#00FDB0=en&layout=compact" alt="ranklike's githubstats" width=550px /></p>
 
 <br><br>
 
