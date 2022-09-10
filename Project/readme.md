@@ -13,9 +13,9 @@
 
 <br>
 
-<img align="right" width=500px alt="Unicorn" src="./Icons/ranklike-SEO-Experte-Hamburg-Marketing.gif" style="margin-top:100px"/>
+<img align="right" width=450px alt="Unicorn" src="./Icons/ranklike-SEO-Experte-Hamburg-Marketing.gif" style="margin-top:100px"/>
 
-# Talking about Personal Stuffs...
+### Talking about Personal Stuffs...
 
 - 🔭 I'm Currently Learning **React JS & DSA**
 - 😉 I'm Looking to clollaborate on **Web Development**
