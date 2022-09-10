@@ -29,7 +29,7 @@
 
 <br><br>
 
-<div>
+<p>
 <div style="display:flex;">
 <img align="left" src="./Icons/ranklike-seo-hamburg.png" width=20px style="margin-right:20px">
 <h4>SEO Hamburg</h4></div>
@@ -101,7 +101,7 @@ sämtlicher Suchmaschinenoptimierung<br><br>
 <h4>Backlinkaufbau</h4>
 Klasse statt Masse! Mit einem autoritären <a href="https://ranklike.de/backlinkaufbau/">Backlinkaufbau </a>steigern
 wir Deine Sichtbarkeit.
-</div>
+</p>
 <br><br>
 <br>
 
