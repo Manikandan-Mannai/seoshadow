@@ -26,99 +26,77 @@
 <br><br>
 
 
-<div style=" display: flex;">
-        <img src="./Icons/ranklike-seo-hamburg.png" width=20px style="margin-right:20px">
-        <h4>SEO Hamburg</h4>
-</div>
+<div style="display:flex;">
+<img align="left" src="./Icons/ranklike-seo-hamburg.png" width=20px style="margin-right:20px">
+<h4>SEO Hamburg</h4></div>
 Deine <a href="https://ranklike.de/">SEO Hamburg Agentur </a>die für Deine Website mehr Traffic generiert.<br><br>
 
+<div style="display:flex;">
+<img align="left" src="./Icons/ranklike-suchmaschinenoptimierung.png" width=20px style="margin-right:20px">
+<h4 style="display: inline;">Suchmaschinenoptimierung</h4></div>
+<a href="https://ranklike.de/local-seo/ ">Effektive Suchmaschinenoptimierung</a> verbessert nachhaltig die Position
+Deiner Website im Internet. Entdecke alle unsere SEO-Leistungen.<br><br>
 
-<div style=" display: flex;">
-        <img src="./Icons/ranklike-suchmaschinenoptimierung.png" width=20px style="margin-right:20px">
-        <h4>Suchmaschinenoptimierung</h4>
-</div>
-    <a href="https://ranklike.de/local-seo/ ">Effektive Suchmaschinenoptimierung</a> verbessert nachhaltig die Position
-    Deiner Website im Internet. Entdecke alle unsere SEO-Leistungen.<br><br>
+<div style="display:flex;">
+<img align="left" src="./Icons/ranklike-seo-experte.png" width=20px style="margin-right:20px">
+<h4>SEO-Experte</h4></div>
+Mit unserer SEO-Beratung erhältst Du einen <a href="https://ranklike.de/seo-experte/">SEO-Experten</a> für eine
+individuelle SEO-Lösung.<br><br>
 
+<div style="display:flex;">
+<img align="left" src="./Icons/ranklike-local-seo.png" width=20px style="margin-right:20px">
+<h4>Local SEO</h4>
+<a href="https://ranklike.de/local-seo/">Lokale Suchmaschinenoptimierung die Local-SEO</a>, für eine höhere
+Platzierung in den lokalen Suchanfragen.<br><br>
 
+<div style="display:flex;">
+<img align="left" src="./Icons/ranklike-e-commerce-seo.png" width=20px style="margin-right:20px">
+<h4>E-Commerce SEO</h4>
+Eine effektive <a href="https://ranklike.de/e-commerce-seo/">E-Commerce SEO</a> Lösung für Produkte und Onlineshops.
+Besser ranken!<br><br>
 
-<div style=" display: flex;">
-        <img src="./Icons/ranklike-seo-experte.png" width=20px style="margin-right:20px">
-        <h4>SEO-Experte</h4>
-</div>
-    Mit unserer SEO-Beratung erhältst Du einen <a href="https://ranklike.de/seo-experte/">SEO-Experten</a> für eine
-    individuelle SEO-Lösung.<br><br>
+<div style="display:flex;">
+<img align="left" src="./Icons/ranklike-offpage-seo.png" width=20px style="margin-right:20px">
+<h4>OffPage-SEO</h4>
+Mit der passenden <a href="https://ranklike.de/offpage-seo/">OffPage Strategie</a>, erhöhen wir die Autorität und
+das Vertrauen Deiner Website.<br><br>
 
+<div style="display:flex;">
+<img align="left" src="./Icons/ranklike-onpage-seo.png" width=20px style="margin-right:20px">
+<h4>OnPage Optimierung</h4>
+<a href="https://ranklike.de/onpage-seo/">OnPage-Optimierungen</a> Deiner Website-Inhalte, um maßgeblich die
+Sichtbarkeit zu steigern.<br><br>
 
+<div style="display:flex;">
+<img align="left" src="./Icons/ranklike-technisches-seo.png" width=20px style="margin-right:20px">
+<h4>Technisches-SEO</h4>
+Durch die <a href="https://ranklike.de/technisches-seo/">Technische SEO</a> ergreifen wir alle technischen Maßnahmen
+zur Verbesserung Deiner Rankings.<br><br>
 
-<div style=" display: flex;">
-        <img src="./Icons/ranklike-local-seo.png" width=20px style="margin-right:20px">
-        <h4>Local SEO</h4>
-</div>
-    <a href="https://ranklike.de/local-seo/">Lokale Suchmaschinenoptimierung die Local-SEO</a>, für eine höhere
-    Platzierung in den lokalen Suchanfragen.<br><br>
+<div style="display:flex;">
+<img align="left" src="./Icons/ranklike-bilder-seo.png" width=20px style="margin-right:20px">
+<h4>Bilder SEO</h4>
+Als erfahrener Experte für <a href="https://ranklike.de/bilder-seo/">Bilder-SEO</a> profitieren Du von einer
+maximalen Optimierung für Bilder und Grafiken.<br><br>
 
-
-<div style=" display: flex;">
-        <img src="./Icons/ranklike-e-commerce-seo.png" width=20px style="margin-right:20px">
-        <h4>E-Commerce SEO</h4>
-</div>
-    Eine effektive <a href="https://ranklike.de/e-commerce-seo/">E-Commerce SEO</a> Lösung für Produkte und Onlineshops.
-    Besser ranken!<br><br>
-
-
-<div style=" display: flex;">
-        <img src="./Icons/ranklike-offpage-seo.png" width=20px style="margin-right:20px">
-        <h4>OffPage-SEO</h4>
-</div>
-    Mit der passenden <a href="https://ranklike.de/offpage-seo/">OffPage Strategie</a>, erhöhen wir die Autorität und
-    das Vertrauen Deiner Website.<br><br>
-
-
-<div style=" display: flex;">
-        <img src="./Icons/ranklike-onpage-seo.png" width=20px style="margin-right:20px">
-        <h4>OnPage Optimierung</h4>
-</div>
-    <a href="https://ranklike.de/onpage-seo/">OnPage-Optimierungen</a> Deiner Website-Inhalte, um maßgeblich die
-    Sichtbarkeit zu steigern.<br><br>
-
-<div style=" display: flex;">
-        <img src="./Icons/ranklike-technisches-seo.png" width=20px style="margin-right:20px">
-        <h4>Technisches-SEO</h4>
-</div>
-    Durch die <a href="https://ranklike.de/technisches-seo/">Technische SEO</a> ergreifen wir alle technischen Maßnahmen
-    zur Verbesserung Deiner Rankings.<br><br>
+<div style="display:flex;">
+<img align="left" src="./Icons/ranklike-site-audit.png" width=20px style="margin-right:20px">
+<h4>Site-Audit</h4>
+Mit einer umfangreichen <a href="https://ranklike.de/site-audit/">Site-Audit Seitenanalyse </a>finden Sie schnell
+Optimierungsmöglichkeiten.<br><br>
 
 
-<div style=" display: flex;">
-        <img src="./Icons/ranklike-bilder-seo.png" width=20px style="margin-right:20px">
-        <h4>Bilder SEO</h4>
-</div>
-    Als erfahrener Experte für <a href="https://ranklike.de/bilder-seo/">Bilder-SEO</a> profitieren Du von einer
-    maximalen Optimierung für Bilder und Grafiken.<br><br>
+<div style="display:flex;">
+<img align="left" src="./Icons/ranklike-keyword-analyse.png" width=20px style="margin-right:20px">
+<h4>Keyword Analyse</h4>
+Die <a href="https://ranklike.de/keyword-analyse/">Keyword Analyse</a> dient Dir als Grundlage
+sämtlicher Suchmaschinenoptimierung<br><br>
 
-
-<div style=" display: flex;">
-        <img src="./Icons/ranklike-site-audit.png" width=20px style="margin-right:20px">
-        <h4>Site-Audit</h4>
-</div>
-    Mit einer umfangreichen <a href="https://ranklike.de/site-audit/">Site-Audit Seitenanalyse </a>finden Sie schnell
-    Optimierungsmöglichkeiten.<br><br>
-
-<div style=" display: flex;">
-        <img src="./Icons/ranklike-keyword-analyse.png" width=20px style="margin-right:20px">
-        <h4>Keyword Analyse</h4>
-</div>
-    Die <a href="https://ranklike.de/keyword-analyse/">Keyword Analyse</a> dient Dir als Grundlage
-    sämtlicher Suchmaschinenoptimierung<br><br>
-
-<div style=" display: flex;">
-        <img src="./Icons/ranklike-backlinks.png" width=20px style="margin-right:20px">
-        <h4>Backlinkaufbau</h4>
-</div>
-    Klasse statt Masse! Mit einem autoritären <a href="https://ranklike.de/backlinkaufbau/">Backlinkaufbau </a>steigern
-    wir Deine Sichtbarkeit.<br><br>
-    
+<div style="display:flex;">
+<img align="left" src="./Icons/ranklike-backlinks.png" width=20px style="margin-right:20px">
+<h4>Backlinkaufbau</h4>
+Klasse statt Masse! Mit einem autoritären <a href="https://ranklike.de/backlinkaufbau/">Backlinkaufbau </a>steigern
+wir Deine Sichtbarkeit.<br><br>
 <br>
 
 <h3>Tools die wir nutzen</h3>
