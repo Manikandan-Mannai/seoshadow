@@ -13,6 +13,7 @@
 </p>
 <br>
 
+<div style="display:flex">
 <img align="right" width=500px src="./Icons/ranklike-SEO-Experte-Hamburg-Marketing.gif" style="margin-top:-100px">
 
 ### Unser SEO MehrWERT
@@ -22,7 +23,10 @@
 - 🎯 Maßgeschneiderte SEO-Lösungen <br>
 - 🔎 Online-Shop SEO und Website Optimierungen <br>
 - 📌 Professionelle und zuverlässige SEO-Beratung
-
+</div>
+        
+        
+        
 <p>
 <div style="display:flex;">
 <img align="left" src="./Icons/ranklike-seo-hamburg.png" width=20px style="margin-right:20px">
