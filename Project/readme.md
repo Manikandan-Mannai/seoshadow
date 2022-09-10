@@ -22,14 +22,14 @@
 
 <br><br>
 
-<div style="display:flex">
+<p style="display:flex">
 <img align="left" src="./Icons/ranklike-Suchmaschinenoptimierung-Hamburg.gif " width=350px>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=ranklike&hide=issues&show_icons=true&color=#00FDB0=en&layout=compact" alt="ranklike's githubstats" width=550px />
-</div>
+</p>
 
 <br><br>
 
-<!-- <p>
+<p>
 <div style="display:flex;">
 <img align="left" src="./Icons/ranklike-seo-hamburg.png" width=20px style="margin-right:20px">
 <h4>SEO Hamburg</h4></div>
@@ -101,7 +101,7 @@ sämtlicher Suchmaschinenoptimierung<br><br>
 <h4>Backlinkaufbau</h4>
 Klasse statt Masse! Mit einem autoritären <a href="https://ranklike.de/backlinkaufbau/">Backlinkaufbau </a>steigern
 wir Deine Sichtbarkeit.
-</p> -->
+</p>
 <br><br>
 <br>
 
