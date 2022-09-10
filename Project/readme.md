@@ -24,11 +24,11 @@
 <p align="right"><img src="https://github-readme-stats.vercel.app/api?username=ranklike&hide=issues&show_icons=true&color=#00FDB0=en&layout=compact" alt="ranklike's githubstats" width=450px /></p>
 
 <img align="left" src="./Icons/ranklike-seo-hamburg.png" width=20px style="margin-right:20px">
-<h4>SEO Hamburg</h4>
+<h4 style="display: inline;">SEO Hamburg</h4>
 Deine <a href="https://ranklike.de/">SEO Hamburg Agentur </a>die für Deine Website mehr Traffic generiert.<br><br>
 
 <img align="left" src="./Icons/ranklike-suchmaschinenoptimierung.png" width=20px style="margin-right:20px">
-<h4>Suchmaschinenoptimierung</h4>
+<h4 style="display: inline;">Suchmaschinenoptimierung</h4>
 <a href="https://ranklike.de/local-seo/ ">Effektive Suchmaschinenoptimierung</a> verbessert nachhaltig die Position
 Deiner Website im Internet. Entdecke alle unsere SEO-Leistungen.<br><br>
 
