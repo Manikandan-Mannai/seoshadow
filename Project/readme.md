@@ -15,15 +15,16 @@
 
 <img align="right" width=450px alt="Unicorn" src="./Icons/ranklike-SEO-Experte-Hamburg-Marketing.gif" style="margin-top:100px"/>
 
+<p align="left">
 # Talking about Personal Stuffs...
 
 - 🚀 Über 12+ Jahre Erfahrung im digitalen Marketing Umfeld 
 - ⚡️ Spezialisiert auf Suchmaschinenoptimierung 
 - 🎯 Maßgeschneiderte SEO-Lösungen 
 - 🔎 Online-Shop SEO und Website Optimierungen
-- 📌 Professionelle und zuverlässige SEO-Beratung
-       
+- 📌 Professionelle und zuverlässige SEO-Beratung   
 <p>
+       
 <div style="display:flex;">
 <img align="left" src="./Icons/ranklike-seo-hamburg.png" width=20px style="margin-right:20px">
 <h4>SEO Hamburg</h4></div>
