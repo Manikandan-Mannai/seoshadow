@@ -20,9 +20,12 @@
 - 🔎 Online-Shop SEO und Website Optimierungen <br>
 - 📌 Professionelle und zuverlässige SEO-Beratung
 
+<br><br>
 
-<p align="left"><img src="./Icons/ranklike-Suchmaschinenoptimierung-Hamburg.gif " width=350px></p>
-<p align="right"><img src="https://github-readme-stats.vercel.app/api?username=ranklike&hide=issues&show_icons=true&color=#00FDB0=en&layout=compact" alt="ranklike's githubstats" width=550px /></p>
+<p>
+<img align="left" src="./Icons/ranklike-Suchmaschinenoptimierung-Hamburg.gif " width=350px>
+<p align="right"><img src="https://github-readme-stats.vercel.app/api?username=ranklike&hide=issues&show_icons=true&color=#00FDB0=en&layout=compact" alt="ranklike's githubstats" width=550px />
+</p>
 
 <br><br>
 
