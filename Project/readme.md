@@ -8,15 +8,14 @@
 
 <a href="https://ranklike.de/">ranklike - SEO Experte Hamburg</a> ist die Lösung für KMU und Start-ups, die mehr Sichtbarkeit in den Suchergebnissen erreichen möchten. Wir sind spezialisiert auf lokale Suchmaschinenoptimierung (<a href="https://ranklike.de/local-seo/ ">Local SEO</a>) sowie OnPage-SEO, um Dir eine effektive Möglichkeiten zu bieten, das Ranking Deiner Website bei Google und anderen Suchmaschinen zu verbessern. ranklike SEO Hamburg macht es einfach, Dein lokales Publikum anzusprechen, sodass Du dich auf das konzentrieren kannst, was Du am besten kannst – Dein Unternehmen führen.
 
-<div>
 <h3>Unser SEO MehrWERT</h3>
         🚀 Über 12+ Jahre Erfahrung im digitalen Marketing Umfeld <br>
         ⚡️ Spezialisiert auf Suchmaschinenoptimierung <br>
         🎯 Maßgeschneiderte SEO-Lösungen <br>
         🔎 Online-Shop SEO und Website Optimierungen <br>
         📌 Professionelle und zuverlässige SEO-Beratung
-<img align="right" src="./Icons/ranklike-SEO-Experte-Hamburg-Marketing.gif" width=350px>
-</div>
+<p align="right"><img src="./Icons/ranklike-SEO-Experte-Hamburg-Marketing.gif" width=350px></p> <br>
+
 
 <img src="./Icons/ranklike-Suchmaschinenoptimierung-Hamburg.gif " width=350px>
 <p align="right"><img src="https://github-readme-stats.vercel.app/api?username=ranklike&hide=issues&show_icons=true&color=#00FDB0=en&layout=compact" alt="ranklike's githubstats" width=450px /></p>
