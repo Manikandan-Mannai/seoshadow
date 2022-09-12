@@ -33,9 +33,9 @@ Deine <a href="https://ranklike.de/">SEO Hamburg Agentur </a>die für Deine Webs
 <!--  -->
 <div style="display:flex;">
 
-<a style="margin-right:20px" href="https://ranklike.de/local-seo/" target="_blank"><img src="./Icons/ranklike-local-seo.png"></a>
-<a href="https://ranklike.de/local-seo/" target="_blank"><img src="./Icons/ranklike-local-seo.png"></a>
-<a href="https://ranklike.de/local-seo/" target="_blank"><img src="./Icons/ranklike-local-seo.png"></a>
+<div style="margin-right:20px"><a href="https://ranklike.de/local-seo/" target="_blank"><img src="./Icons/ranklike-local-seo.png"></a></div>
+<div style="margin-right:20px"><a href="https://ranklike.de/local-seo/" target="_blank"><img src="./Icons/ranklike-local-seo.png"></a></div>
+<div style="margin-right:20px"><a href="https://ranklike.de/local-seo/" target="_blank"><img src="./Icons/ranklike-local-seo.png"></a></div>
 
 </div>
 
@@ -111,6 +111,7 @@ sämtlicher Suchmaschinenoptimierung<br><br>
 <h4>Backlinkaufbau</h4>
 Klasse statt Masse! Mit einem autoritären <a href="https://ranklike.de/backlinkaufbau/">Backlinkaufbau </a>steigern
 wir Deine Sichtbarkeit.
+
 </p>
 <br><br>
 <br>
