@@ -251,7 +251,7 @@ wir Deine Sichtbarkeit.
             src="./Icons/instagram.webp"  style="margin-right: 10px" width=50></a>
         <a href="https://www.pinterest.de/ranklike/"><img
             src="./Icons/Pinterest.png"  style="margin-right: 10px" width=50></a>
-        <a href="https://www.tumblr.com/blog/ranklike"><img src="./Icons/Tumblr.png"  style="margin-right: 10px" width=50></a>
+        <a href="https://www.tumblr.com/blog/ranklike"><img src="./Icons/tumblr.png"  style="margin-right: 10px" width=50></a>
         <a href="https://www.linkedin.com/company/ranklike-seo/"><img
             src="./Icons/linkedin.png"  style="margin-right: 10px" width=50></a>
         <a href="https://www.xing.com/pages/ranklike-seo"><img src="./Icons/xing.svg"  style="margin-right: 10px" width=50></a>
