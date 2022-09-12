@@ -39,7 +39,7 @@ Deine <a href="https://ranklike.de/">SEO Hamburg Agentur </a>die für Deine Webs
 <h3>Tools die wir nutzen</h3>
 <div>
        
-<a href="https://ranklike.de/local-seo/" target="_blank"><img src="./Icons/local-seo.png" style="margin-right: 20px;" width=300>
+<a href="https://ranklike.de/local-seo/" target="_blank"><img src="./Icons/local-seo.png" style="margin-right: 20px;" width=200>
 </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://ranklike.de/onpage-seo/" target="_blank"><img src="./Icons/ranklike-onpage-seo.png" style="margin-right: 20px;"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://ranklike.de/offpage-seo/" target="_blank"><img src="./Icons/ranklike-offpage-seo.png" style="margin-right: 20px;"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
