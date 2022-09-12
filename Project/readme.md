@@ -33,10 +33,10 @@ Deine <a href="https://ranklike.de/">SEO Hamburg Agentur </a>die für Deine Webs
 <!--  -->
 <h3>Tools die wir nutzen</h3>
 <div style="display: flex;align-items: center;">
-<a href="https://ranklike.de/local-seo/" target="_blank"><img src="./Icons/ranklike-local-seo.png" alt="Ahrefs" width="60px" style="margin-right:30px"></a>
-<a herf="https://ranklike.de/onpage-seo/" target="_blank"><img src="./Icons/ranklike-onpage-seo.png" alt="screaming" width="60px" style="margin-right:30px"></a>
-<a herf="https://ranklike.de/offpage-seo/" target="_blank"><img src="./Icons/ranklike-offpage-seo.png" alt="semrush" width="60px" style="margin-right:30px"></a>
-       
+<a href="https://ranklike.de/onpage-seo/" target="_blank"><img src="./Icons/onpage-seo.png" style="margin-right: 20px;"></a>
+<a href="https://ranklike.de/offpage-seo/" target="_blank"><img src="./Icons/offpage-seo.png" style="margin-right: 20px;"></a>
+<a href="https://ranklike.de/technisches-seo/" target="_blank"><img src="./Icons/technisches-seo.png" style="margin-right: 20px;"></a>
+<a href="https://ranklike.de/e-commerce-seo/" target="_blank"><img src="./Icons/e-commerce-seo.png" style="margin-right: 20px;"></a>
 </div>
 
 
