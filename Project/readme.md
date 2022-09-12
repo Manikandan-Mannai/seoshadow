@@ -246,7 +246,7 @@ wir Deine Sichtbarkeit.
  <a href="https://twitter.com/ranklike"><img
             src="./Icons/Twitter.png" style="margin-right: 10px" width=50></a>
         <a href="https://www.facebook.com/ranklikeSEO"><img
-            src="./Icons/facebook-logo.jpg" style="margin-right: 10px" width=50></a>
+            src="./Icons/Facebook-f_Logo.svg" style="margin-right: 10px" width=50></a>
         <a href="https://www.instagram.com/rank.like/"><img
             src="./Icons/instagram.webp"  style="margin-right: 10px" width=50></a>
         <a href="https://www.pinterest.de/ranklike/"><img
