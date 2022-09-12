@@ -31,7 +31,7 @@
 
 <p>
 <img align="left" src="./Icons/ranklike-Suchmaschinenoptimierung-Hamburg.gif" width=300px>
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=ranklike&hide=issues&show_icons=true&color=#00FDB0=en&layout=compact" alt="ranklike's githubstats" width=400 /></p>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=ranklike&hide=issues&show_icons=true&color=#00FDB0=en&layout=compact" alt="ranklike's githubstats" width=450 /></p>
 </p>
 
 
