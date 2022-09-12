@@ -40,12 +40,14 @@ Deine <a href="https://ranklike.de/">SEO Hamburg Agentur </a>die für Deine Webs
 <div>
        
 <a href="https://ranklike.de/local-seo/" target="_blank"><img src="./Icons/local-seo.png" style="margin-right: 20px;" width=200>
-</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 <a href="https://ranklike.de/onpage-seo/" target="_blank"><img src="./Icons/onpage.png" style="margin-right: 20px;" width=200></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://ranklike.de/offpage-seo/" target="_blank"><img src="./Icons/offpage.png" style="margin-right: 20px;" width=200></a>&nbsp;nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://ranklike.de/technisches-seo/" target="_blank"><img src="./Icons/ranklike-technisches-seo.png" style="margin-right: 20px;"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
-<a href="https://ranklike.de/e-commerce-seo/" target="_blank"><img src="./Icons/ranklike-e-commerce-seo.png" style="margin-right: 20px;"></a><br>
-<a href="https://ranklike.de/site-audit/" target="_blank"><img src="./Icons/ranklike-site-audit.png" style="margin-right: 20px;"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://ranklike.de/offpage-seo/" target="_blank"><img src="./Icons/offpage.png" style="margin-right: 20px;" width=200></a><br>
+       
+<a href="https://ranklike.de/technisches-seo/" target="_blank"><img src="./Icons/technisches.png" style="margin-right: 20px;" width=200></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://ranklike.de/e-commerce-seo/" target="_blank"><img src="./Icons/e-commerce.png" style="margin-right: 20px;" width=200></a>
+<a href="https://ranklike.de/bilder-seo/" target="_blank"><img src="./Icons/bilder.png" style="margin-right: 20px;"></a><br>
+       
 <a href="https://ranklike.de/backlinkaufbau/" target="_blank"><img src="./Icons/ranklike-backlinks.png" style="margin-right: 20px;"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://ranklike.de/keyword-analyse/" target="_blank"><img src="./Icons/ranklike-keyword-analyse.png" style="margin-right: 20px;"></a>
 </div>
