@@ -24,7 +24,7 @@
 - 🎯 Maßgeschneiderte SEO-Lösungen 
 - 🔎 Online-Shop SEO und Website Optimierungen
 - 📌 Professionelle und zuverlässige SEO-Beratung   
-<p>
+</p>
        
  <br><br>
        
