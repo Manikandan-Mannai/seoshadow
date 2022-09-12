@@ -33,13 +33,9 @@ Deine <a href="https://ranklike.de/">SEO Hamburg Agentur </a>die für Deine Webs
 <!--  -->
 <div style="display:flex;">
 
-<p><a href="https://ranklike.de/local-seo/" target="_blank"><img src="./Icons/ranklike-local-seo.png"></a></p>
-
-
-<p><a href="https://ranklike.de/local-seo/" target="_blank"><img src="./Icons/ranklike-local-seo.png"></a></p>
-
-
-<p><a href="https://ranklike.de/local-seo/" target="_blank"><img src="./Icons/ranklike-local-seo.png"></a></p>
+<a href="https://ranklike.de/local-seo/" target="_blank"><img src="./Icons/ranklike-local-seo.png">
+<a href="https://ranklike.de/local-seo/" target="_blank"><img src="./Icons/ranklike-local-seo.png"></a>
+<a href="https://ranklike.de/local-seo/" target="_blank"><img src="./Icons/ranklike-local-seo.png"></a>
 
 </div>
 
