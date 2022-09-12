@@ -143,7 +143,7 @@ wir Deine Sichtbarkeit.
         <img src="./Icons/semrush-logo.jpg" alt="semrush" width="70px" height="70px" style="margin-right:30px">
         <img src="./Icons/screaming.png" alt="screaming" width="70px" height="70px" style="margin-right:30px">
         <img src="./Icons/mangools-logo.png" alt="" width="70px" height="70px" style="margin-right:30px">
-        <img src="./Icons/Affinity.png" alt="Affinity" width="70px" height="70px" style="margin-right:30px">
+        <img src="./Icons/Affinity.jpg" alt="Affinity" width="70px" height="70px" style="margin-right:30px">
         <img src="./Icons/lightroom.png" alt="lightroom" width="70px" height="70px" style="margin-right:30px">
         <img src="./Icons/Brackets.png" alt="Brackets" width="70px" height="70px" style="margin-right:30px">
         <img src="./Icons/Photoshop.png" alt="Photoshop" width="70px" height="70px" style="margin-right:30px">
