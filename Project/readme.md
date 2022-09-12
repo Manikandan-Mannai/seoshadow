@@ -18,6 +18,7 @@
 <br><br>
 
 <p align="left">
+       
 - 🚀 Über 12+ Jahre Erfahrung im digitalen Marketing Umfeld 
 - ⚡️ Spezialisiert auf Suchmaschinenoptimierung 
 - 🎯 Maßgeschneiderte SEO-Lösungen 
@@ -27,8 +28,6 @@
        
  <br><br>
        
-<p align="right"><img src="https://github-readme-stats.vercel.app/api?username=ranklike&hide=issues&show_icons=true&color=#00FDB0=en&layout=compact" alt="ranklike's githubstats" width=550px /></p>
-<img src="./Icons/ranklike-Suchmaschinenoptimierung-Hamburg.gif " width=350px/>
 
  
 <div style="display:flex;">
