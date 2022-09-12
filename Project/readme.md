@@ -1,5 +1,5 @@
 <h1>Dein SEO Experte</h1>
-<img src="./Icons/Dein%20ranklike%20SEO%20Experte%20aus%20Hamburg.png" alt="Dein ranklike SEO Experte aus Hamburg">
+<img src="./Icons/Dein%20ranklike%20SEO%20Experte%20aus%20Hamburg.gif" alt="Dein ranklike SEO Experte aus Hamburg">
 
 <h1>Wir sind ranklike - SEO Experten aus Hamburg - Deine SEO-Agentur</h1>
 
