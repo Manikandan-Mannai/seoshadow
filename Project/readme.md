@@ -29,7 +29,7 @@
        
 <br><br>
 
-<img style="float:right" src="https://github-readme-stats.vercel.app/api?username=ranklike&hide=issues&show_icons=true&color=#00FDB0=en&layout=compact" alt="ranklike's githubstats" width="300" />
+<img src="https://github-readme-stats.vercel.app/api?username=ranklike&hide=issues&show_icons=true&color=#00FDB0=en&layout=compact" alt="ranklike's githubstats" width="300" />
 
  
 <div style="display:flex;">
