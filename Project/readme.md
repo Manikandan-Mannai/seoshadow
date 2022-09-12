@@ -30,6 +30,25 @@
 <h4>SEO Hamburg</h4></div>
 Deine <a href="https://ranklike.de/">SEO Hamburg Agentur </a>die für Deine Website mehr Traffic generiert.<br><br>
 
+<!--  -->
+
+<div>
+<a href="https://ranklike.de/local-seo/" target="_blank"><img src="./Icons/ranklike-local-seo.png"></a>
+<h3 style="color:#03317C">Local SEO</h3>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+<!--  -->
+
 <div style="display:flex;">
 <img align="left" src="./Icons/ranklike-suchmaschinenoptimierung.png" width=20px style="margin-right:20px">
 <h4 style="display: inline;">Suchmaschinenoptimierung</h4></div>
