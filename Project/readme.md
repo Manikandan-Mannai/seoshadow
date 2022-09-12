@@ -115,7 +115,7 @@ Klasse statt Masse! Mit einem autoritären <a href="https://ranklike.de/backlink
 wir Deine Sichtbarkeit.
 
 </p>
-<br><br>
+<br>
 <br>
 
 <h3>Tools die wir nutzen</h3>
@@ -130,6 +130,7 @@ wir Deine Sichtbarkeit.
         <img src="./Icons/Photoshop.png" alt="Photoshop" width="80px" height="80px" style="margin-right:30px">
 </div>
 
+<br>
 <br>
 
 <h3>Was wir können</h3>
@@ -238,6 +239,7 @@ wir Deine Sichtbarkeit.
 </table>
 
 <br>
+<br>
 
 <h3>Verbinde dich mit uns</h3>
 <div style="display: flex;align-items: center;">
@@ -257,6 +259,7 @@ wir Deine Sichtbarkeit.
         <a href="https://www.flickr.com/people/ranklike/ "><img src="./Icons/Flickr.png" width=50></a>
  </div>
 
+<br>
 <br>
 
 <div>
