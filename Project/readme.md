@@ -46,7 +46,6 @@ Deine <a href="https://ranklike.de/">SEO Hamburg Agentur </a>die für Deine Webs
 <a href="https://ranklike.de/technisches-seo/" target="_blank"><img src="./Icons/technisches.png" style="margin-right: 20px;" width=200></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://ranklike.de/e-commerce-seo/" target="_blank"><img src="./Icons/e-commerce.png" style="margin-right: 20px;" width=200></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://ranklike.de/bilder-seo/" target="_blank"><img src="./Icons/bilder.png" style="margin-right: 20px;" width=200></a><br>
-       
 <a href="https://ranklike.de/site-audit/" target="_blank"><img src="./Icons/site-audit.png" style="margin-right: 20px;"  width=200></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://ranklike.de/backlinkaufbau/" target="_blank"><img src="./Icons/backlinkaufbau.png" style="margin-right: 20px;"  width=200></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://ranklike.de/keyword-analyse/" target="_blank"><img src="./Icons/keyword-analyse.png" style="margin-right: 20px;" width=200></a><br>
