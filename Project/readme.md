@@ -33,7 +33,7 @@ Deine <a href="https://ranklike.de/">SEO Hamburg Agentur </a>die für Deine Webs
 <!--  -->
 <h3>Tools die wir nutzen</h3>
 <div style="display: flex;align-items: center;">
-        <img src="./Icons/Ahrefs.png" alt="Ahrefs" width="60px" style="margin-right:30px">
+        <a herf="https://ranklike.de/local-seo/"><img src="./Icons/ranklike-local-seo.png" alt="Ahrefs" width="60px" style="margin-right:30px"></a>
         <img src="./Icons/screaming.png" alt="screaming" width="60px" style="margin-right:30px">
         <img src="./Icons/semrush.png" alt="semrush" width="60px" style="margin-right:30px">
   </div>
