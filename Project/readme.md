@@ -244,17 +244,17 @@ wir Deine Sichtbarkeit.
 <h3>Verbinde dich mit uns</h3>
 <div style="display: flex;align-items: center;">
  <a href="https://twitter.com/ranklike"><img
-            src="https://img.shields.io/badge/Twitter-%231877F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" style="margin-right: 10px"></a>
+            src="./Icons/Twitter.png" style="margin-right: 10px"></a>
         <a href="https://www.facebook.com/ranklikeSEO"><img
-            src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" style="margin-right: 10px"></a>
+            src="./Icons/Facebook.png" style="margin-right: 10px"></a>
         <a href="https://www.instagram.com/rank.like/"><img
-            src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"  style="margin-right: 10px"></a>
+            src="./Icons/instagram.webp"  style="margin-right: 10px"></a>
         <a href="https://www.pinterest.de/ranklike/"><img
-            src="https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white"  style="margin-right: 10px"></a>
-        <a href="https://www.tumblr.com/blog/ranklike"><img src="https://img.shields.io/badge/Tumblr-%2336465D.svg?style=for-the-badge&logo=Tumblr&logoColor=white"  style="margin-right: 10px"></a>
+            src="./Icons/Pinterest.png"  style="margin-right: 10px"></a>
+        <a href="https://www.tumblr.com/blog/ranklike"><img src="./Icons/Tumblr.png"  style="margin-right: 10px"></a>
         <a href="https://www.linkedin.com/company/ranklike-seo/"><img
-            src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)"  style="margin-right: 10px"></a>
-        <a href="https://www.xing.com/pages/ranklike-seo"><img src="https://img.shields.io/badge/xing-%23006567.svg?style=for-the-badge&logo=xing&logoColor=white"  style="margin-right: 10px"></a>
+            src="./Icons/linkedin.png"  style="margin-right: 10px"></a>
+        <a href="https://www.xing.com/pages/ranklike-seo"><img src="./Icons/xing.svg"  style="margin-right: 10px"></a>
         <a href="https://ranklike-seo-hamburg.business.site/ "><img src="./Icons/ranklike-seo-logo.png" width=50></a>
         <a href="https://www.flickr.com/people/ranklike/ "><img src="./Icons/Flickr.png" width=50></a>
  </div>
