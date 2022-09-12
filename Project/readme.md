@@ -13,10 +13,9 @@
 
 <br>
 
-<img align="right" width=450px alt="Unicorn" src="./Icons/ranklike-SEO-Experte-Hamburg-Marketing.gif" style="margin-top:100px"/>
+<img align="right"alt="Unicorn" src="./Icons/ranklike-SEO-Experte-Hamburg-Marketings.gif" style="margin-top:100px"/>
 
 <p align="left">
-# Talking about Personal Stuffs...
 
 - 🚀 Über 12+ Jahre Erfahrung im digitalen Marketing Umfeld 
 - ⚡️ Spezialisiert auf Suchmaschinenoptimierung 
