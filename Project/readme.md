@@ -273,7 +273,7 @@ wir Deine Sichtbarkeit.
             width=50></a>
     <a href="https://www.linkedin.com/company/ranklike-seo/"><img src="./Icons/linkedin.png" style="margin-right: 10px"
             width=50></a>
-    <a href="https://www.xing.com/pages/ranklike-seo"><img src="./Icons/xing.svg" style="margin-right: 10px"
+    <a href="https://www.xing.com/pages/ranklike-seo"><img src="./Icons/xing.png" style="margin-right: 10px"
             width=50></a>
     <a href="https://ranklike-seo-hamburg.business.site/ "><img src="./Icons/ranklike-seo-logo.png" width=50></a>
     <a href="https://www.flickr.com/people/ranklike/ "><img src="./Icons/Flickr.png" width=50></a>
