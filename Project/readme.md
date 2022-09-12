@@ -29,8 +29,9 @@
        
 <br><br>
 
+<p>
 <img align="left" src="./Icons/ranklike-Suchmaschinenoptimierung-Hamburg.gif" width=300px>
-
+</p>
 <br><br>
 
 <div style="display:flex;">
