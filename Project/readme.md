@@ -32,17 +32,9 @@ Deine <a href="https://ranklike.de/">SEO Hamburg Agentur </a>die für Deine Webs
 
 <!--  -->
 <div style="display:flex;">
-<div>
 <a href="https://ranklike.de/local-seo/" target="_blank"><img src="./Icons/ranklike-local-seo.png"></a>
-<h3 style="color:#03317C">Local SEO</h3>
-</div>
 
-
-<div>
 <a href="https://ranklike.de/local-seo/" target="_blank"><img src="./Icons/ranklike-local-seo.png"></a>
-<h3 style="color:#03317C">Local SEO</h3>
-</div>
-
 
 <div>
 <a href="https://ranklike.de/local-seo/" target="_blank"><img src="./Icons/ranklike-local-seo.png"></a>
