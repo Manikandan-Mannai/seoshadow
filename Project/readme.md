@@ -13,7 +13,7 @@
 
 <br>
 
-<img style="float:right" src="./Icons/ranklike-SEO-Experte-Hamburg-Marketing.gif" width=300px>
+<img align="left" src="./Icons/ranklike-SEO-Experte-Hamburg-Marketing.gif" width=300px>
 
 
 <br>
@@ -29,7 +29,7 @@
        
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=ranklike&hide=issues&show_icons=true&color=#00FDB0=en&layout=compact" alt="ranklike's githubstats" width="300" />
+<img style="float:right" src="https://github-readme-stats.vercel.app/api?username=ranklike&hide=issues&show_icons=true&color=#00FDB0=en&layout=compact" alt="ranklike's githubstats" width="300" />
 
  
 <div style="display:flex;">
