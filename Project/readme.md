@@ -120,14 +120,14 @@ wir Deine Sichtbarkeit.
 
 <h3>Tools die wir nutzen</h3>
 <div style="display: flex;align-items: center;">
-<img src="./Icons/Ahrefs.png" alt="Ahrefs" width="60px" height="100px" style="margin-right:30px">
-<img src="./Icons/screaming.png" alt="screaming" width="60px" height="100px" style="margin-right:30px">
-<img src="./Icons/semrush.png" alt="semrush" width="60px" height="100px" style="margin-right:30px">
-<img src="./Icons/mangools-logo.svg" alt="" width="60px" height="100px" style="margin-right:30px">
-<img src="./Icons/Affinity.png" alt="Affinity" width="60px" height="100px" style="margin-right:30px">
-<img src="./Icons/lightroom.png" alt="lightroom" width="60px" height="100px" style="margin-right:30px">
-<img src="./Icons/Brackets.png" alt="Brackets" width="60px" height="100px" style="margin-right:30px">
-<img src="./Icons/Photoshop.png" alt="Photoshop" width="60px" height="100px" style="margin-right:30px">
+        <img src="./Icons/Ahrefs.png" alt="Ahrefs" width="60px" height="80px" style="margin-right:30px">
+        <img src="./Icons/screaming.png" alt="screaming" width="60px" height="80px" style="margin-right:30px">
+        <img src="./Icons/semrush.png" alt="semrush" width="60px" height="80px" style="margin-right:30px">
+        <img src="./Icons/mangools-logo.svg" alt="" width="60px" height="80px" style="margin-right:30px">
+        <img src="./Icons/Affinity.png" alt="Affinity" width="60px" height="80px" style="margin-right:30px">
+        <img src="./Icons/lightroom.png" alt="lightroom" width="60px" height="80px" style="margin-right:30px">
+        <img src="./Icons/Brackets.png" alt="Brackets" width="60px" height="80px" style="margin-right:30px">
+        <img src="./Icons/Photoshop.png" alt="Photoshop" width="60px" height="80px" style="margin-right:30px">
 </div>
 
 <br>
