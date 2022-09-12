@@ -16,6 +16,7 @@
 <img align="right" src="./Icons/ranklike-SEO-Experte-Hamburg-Marketing.gif" width=300px>
 
 <br><br>
+
 <p align="left">
 
 - 🚀 Über 12+ Jahre Erfahrung im digitalen Marketing Umfeld 
@@ -25,6 +26,9 @@
 - 📌 Professionelle und zuverlässige SEO-Beratung   
 <p>
        
+ <br><br>
+ 
+ 
 <div style="display:flex;">
 <img align="left" src="./Icons/ranklike-seo-hamburg.png" width=20px style="margin-right:20px">
 <h4>SEO Hamburg</h4></div>
