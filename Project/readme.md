@@ -33,13 +33,13 @@ Deine <a href="https://ranklike.de/">SEO Hamburg Agentur </a>die für Deine Webs
 <!--  -->
 <h3>Tools die wir nutzen</h3>
 <div>
-<a href="https://ranklike.de/local-seo/" target="_blank"><img src="./Icons/ranklike-local-seo.png" style="margin-right: 20px;"><br>Local SEO</a>
-<a href="https://ranklike.de/onpage-seo/" target="_blank"><img src="./Icons/ranklike-onpage-seo.png" style="margin-right: 20px;"><br>onpage</a>
-<a href="https://ranklike.de/offpage-seo/" target="_blank"><img src="./Icons/ranklike-offpage-seo.png" style="margin-right: 20px;">offpage</a>
-<a href="https://ranklike.de/technisches-seo/" target="_blank"><img src="./Icons/ranklike-technisches-seo.png" style="margin-right: 20px;">technisches</a>
-<a href="https://ranklike.de/e-commerce-seo/" target="_blank"><img src="./Icons/ranklike-e-commerce-seo.png" style="margin-right: 20px;">e-commerce</a>
-<a href="https://ranklike.de/site-audit/" target="_blank"><img src="./Icons/ranklike-site-audit.png" style="margin-right: 20px;">site audit</a>
-<a href="https://ranklike.de/backlinkaufbau/" target="_blank"><img src="./Icons/ranklike-backlinks.png" style="margin-right: 20px;">backlinks</a>
+<a href="https://ranklike.de/local-seo/" target="_blank"><img src="./Icons/ranklike-local-seo.png" style="margin-right: 20px;">Local SEO</a>&nbsp;
+<a href="https://ranklike.de/onpage-seo/" target="_blank"><img src="./Icons/ranklike-onpage-seo.png" style="margin-right: 20px;">onpage</a>&nbsp;
+<a href="https://ranklike.de/offpage-seo/" target="_blank"><img src="./Icons/ranklike-offpage-seo.png" style="margin-right: 20px;">offpage</a>&nbsp;
+<a href="https://ranklike.de/technisches-seo/" target="_blank"><img src="./Icons/ranklike-technisches-seo.png" style="margin-right: 20px;">technisches</a>&nbsp;
+<a href="https://ranklike.de/e-commerce-seo/" target="_blank"><img src="./Icons/ranklike-e-commerce-seo.png" style="margin-right: 20px;">e-commerce</a>&nbsp;
+<a href="https://ranklike.de/site-audit/" target="_blank"><img src="./Icons/ranklike-site-audit.png" style="margin-right: 20px;">site audit</a>&nbsp;
+<a href="https://ranklike.de/backlinkaufbau/" target="_blank"><img src="./Icons/ranklike-backlinks.png" style="margin-right: 20px;">backlinks</a>&nbsp;
 <a href="https://ranklike.de/keyword-analyse/" target="_blank"><img src="./Icons/ranklike-keyword-analyse.png" style="margin-right: 20px;">keyword analyse</a>
 </div>
 
