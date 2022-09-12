@@ -13,7 +13,7 @@
 
 <br>
 
-<img align="right"alt="Unicorn" src="./Icons/ranklike-SEO-Experte-Hamburg-Marketings.gif" style="margin-top:100px"/>
+<img src="./Icons/ranklike-SEO-Experte-Hamburg-Marketings.gif" >
 
 <p align="left">
 
