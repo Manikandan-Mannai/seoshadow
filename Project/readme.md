@@ -16,7 +16,7 @@
 <img align="right" src="./Icons/ranklike-SEO-Experte-Hamburg-Marketing.gif" width=300px>
 
 
-<br><br>
+<br>
 
 <p align="left">
        
@@ -29,8 +29,9 @@
        
 <br><br>
 
-<p align="right"><img src="https://github-readme-stats.vercel.app/api?username=ranklike&hide=issues&show_icons=true&color=#00FDB0=en&layout=compact" alt="ranklike's githubstats" width="300" /></p>    
+<p><img src="https://github-readme-stats.vercel.app/api?username=ranklike&hide=issues&show_icons=true&color=#00FDB0=en&layout=compact" alt="ranklike's githubstats" width="300" />
 <img align="left" src="./Icons/ranklike-Suchmaschinenoptimierung-Hamburg.gif" width="300">
+</p> 
 
 <br><br>
  
