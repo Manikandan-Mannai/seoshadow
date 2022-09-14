@@ -269,7 +269,7 @@ wir Deine Sichtbarkeit.
 <div>
             
 <img src="./Icons/ranklike-seo-hamburg.png" width="40" align="left"><h4>Deine Experten für SEO Hamburg</h4>
-<a herf="https://www.google.com/maps/place/ranklike+-+Online+Marketing+SEO/@53.5781434,10.039489,17z/data=!4m5!3m4!1s0x0:0xfde4ac845b7be47e!8m2!3d53.5781434!4d10.039489" target="_blank"><img src="./Icons/map.webp"></a>
+<a href="https://www.google.com/maps/place/ranklike+-+Online+Marketing+SEO/@53.5781434,10.0373003,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0xfde4ac845b7be47e!8m2!3d53.5781434!4d10.039489?shorturl=1"><img src="./Icons/map.webp"></a>
 
 <br><br>
 
