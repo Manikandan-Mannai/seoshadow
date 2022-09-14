@@ -46,25 +46,8 @@
 <h4>SEO Hamburg</h4></div>
 Deine <a href="https://ranklike.de/">SEO Hamburg Agentur </a>die für Deine Website mehr Traffic generiert.<br><br>
 
-<!--  -->
+
 <h3>Tools die wir nutzen</h3>
-<div>
-       
-<a href="https://ranklike.de/local-seo/" target="_blank"><img src="./Icons/local-seo.png" style="margin-right: 20px;" width=200>
-</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-<a href="https://ranklike.de/onpage-seo/" target="_blank"><img src="./Icons/onpage.png" style="margin-right: 20px;" width=200></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://ranklike.de/offpage-seo/" target="_blank"><img src="./Icons/offpage.png" style="margin-right: 20px;" width=200></a><br><br>
-<a href="https://ranklike.de/technisches-seo/" target="_blank"><img src="./Icons/technisches.png" style="margin-right: 20px;" width=200></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://ranklike.de/e-commerce-seo/" target="_blank"><img src="./Icons/e-commerce.png" style="margin-right: 20px;" width=200></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://ranklike.de/bilder-seo/" target="_blank"><img src="./Icons/bilder.png" style="margin-right: 20px;" width=200></a><br><br>
-<a href="https://ranklike.de/site-audit/" target="_blank"><img src="./Icons/site-audit.png" style="margin-right: 20px;"  width=200></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://ranklike.de/backlinkaufbau/" target="_blank"><img src="./Icons/backlinkaufbau.png" style="margin-right: 20px;"  width=200></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://ranklike.de/keyword-analyse/" target="_blank"><img src="./Icons/keyword-analyse.png" style="margin-right: 20px;" width=200></a><br>
-</div>
-
-
-
-<!--  -->
 
 <div style="display:flex;">
 <img align="left" src="./Icons/ranklike-suchmaschinenoptimierung.png" width=20px style="margin-right:20px">
@@ -286,11 +269,7 @@ wir Deine Sichtbarkeit.
 <div>
             
 <img src="./Icons/ranklike-seo-hamburg.png" width="40" align="left"><h4>Deine Experten für SEO Hamburg</h4>
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2368.8584170695062!2d10.039489!3d53.578143399999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xfde4ac845b7be47e!2sranklike%20-%20Online%20Marketing%20SEO!5e0!3m2!1sde!2spt!4v1662304099388!5m2!1sde!2spt"
-                width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"
-                referrerpolicy="no-referrer-when-downgrade">ranklike - Online Marketing SEO Hamburg, Hamburger Straße
-                180,
-                22083 Hamburg</iframe>
+<a herf="https://www.google.com/maps/place/ranklike+-+Online+Marketing+SEO/@53.5781434,10.039489,17z/data=!4m5!3m4!1s0x0:0xfde4ac845b7be47e!8m2!3d53.5781434!4d10.039489" target="_blank"><img src="./Icons/map.webp"></a>
 
 <br><br>
 
